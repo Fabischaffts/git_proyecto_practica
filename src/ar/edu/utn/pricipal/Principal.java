@@ -5,7 +5,7 @@ public class Principal {
 	//esto es un metodo main
 	public static void main(String[] args) {
 
-		System.System.out.println("Hola mundo!!!");	
+		System.out.println("Hola mundo!!!");	
 		
 	}
 
