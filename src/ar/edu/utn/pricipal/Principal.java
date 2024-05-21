@@ -1,10 +1,9 @@
 package ar.edu.utn.pricipal;
 
 public class Principal {
-	/*comentario de fabian*/
+        //comentario martin
 	public static void main(String[] args) {
-	/*soy fabian*/
-
+	//Esto es un comentario	
 		
 	}
 
