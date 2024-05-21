@@ -6,8 +6,8 @@ public class Principal {
 	public static void main(String[] args) {
 
 		System.out.println("Hola mundo!!!");	
-
-	//aqui voy a llamar a algun metodo	
+		System.out.println("Chau mundo");
+		//aqui voy a llamar a algun metodo	
 	}
 
 }
