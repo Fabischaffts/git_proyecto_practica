@@ -7,6 +7,7 @@ public class Principal {
 
 		System.out.println("Hola mundo!!!");	
 		System.out.println("Chau mundo");
+		System.out.println("Nueva linea");
 		//aqui voy a llamar a algun metodo	
 	}
 
